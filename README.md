@@ -21,7 +21,8 @@ In this simulator, there are technically 3 different commands, which can all be 
 
 In order to determine the 2/4 Munchlax tree locations associated with your trainer ID. Then, you are able to use 3 different commands. The first command, `L`, prints a list of all possible Honey Tree route locations. 
 
-![image](https://user-images.githubusercontent.com/80475070/215250398-24aed1a8-6775-4e50-bd8e-c7d3128e08ef.png)
+![image](https://user-images.githubusercontent.com/80475070/215252299-481fb12e-014e-4970-9d57-de7ba078d9b8.png)
+
 
 The second command can be the names of any of the routes present when typing the `L` command. For example, you could type `Route 207`, and that would generate an encounter for the Honey Tree at Route 207. 
 
