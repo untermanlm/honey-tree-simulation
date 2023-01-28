@@ -8,5 +8,5 @@ In the games Pokemon Diamond, Pearl, and Platinum, there is a unique time-based 
 
 The encounter tables for Non-Munchlax and Munchlax trees, also taken from Bulbapedia, are displayed below.
 
-![non-munchlax-tree](https://user-images.githubusercontent.com/80475070/215249961-f183ec7e-ec02-48a1-9be6-890c7b08c932.png)
-![munchlax-tree](https://user-images.githubusercontent.com/80475070/215249976-e162f6df-4420-47df-b1df-4515e55d80fb.png)
+
+![non-munchlax-tree](https://user-images.githubusercontent.com/80475070/215250025-5aecbc80-3acb-48bf-b610-32e16f043a35.png)
