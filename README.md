@@ -31,7 +31,8 @@ Finally, the last command is `N` which ends the simulation loop.
 
 ## Sample Output Video
 
-https://user-images.githubusercontent.com/80475070/215251069-408727b1-ee38-4024-96fd-9984f93bcc14.mp4
+
+https://user-images.githubusercontent.com/80475070/215252103-290fd314-2d60-49de-9d25-aee269d9ba02.mp4
 
 
 ## Todo
