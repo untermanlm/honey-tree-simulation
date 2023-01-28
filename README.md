@@ -11,3 +11,9 @@ The encounter tables for Non-Munchlax and Munchlax trees, also taken from Bulbap
 
 ![image](https://user-images.githubusercontent.com/80475070/215250052-1de73cb7-dc76-4f59-97f2-7140e0fae6c2.png)
 ![image](https://user-images.githubusercontent.com/80475070/215250074-3a38ea93-1c61-455d-947a-1dba46111ce1.png)
+
+All of these game mechanics are simulated in the Java program found within this repository.
+
+## Simulator
+
+
