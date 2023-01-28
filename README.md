@@ -36,3 +36,7 @@ https://user-images.githubusercontent.com/80475070/215252103-290fd314-2d60-49de-
 
 
 ## Todo
+
+* Generate actual Pokemon with stats, IVs, PIDs, and abilities upon encountering Honey Tree
+* Create pkhex compatible files for importing these Pokemon into a game save
+* Online/website implementation
