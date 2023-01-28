@@ -10,3 +10,4 @@ The encounter tables for Non-Munchlax and Munchlax trees, also taken from Bulbap
 
 
 ![non-munchlax-tree](https://user-images.githubusercontent.com/80475070/215250025-5aecbc80-3acb-48bf-b610-32e16f043a35.png)
+![image](https://user-images.githubusercontent.com/80475070/215250052-1de73cb7-dc76-4f59-97f2-7140e0fae6c2.png)
