@@ -31,7 +31,8 @@ Finally, the last command is `N` which ends the simulation loop.
 
 ## Sample Output
 
-`
+```
+{
 Type in your trainer ID!
 60000
 Two of your Munchlax trees should be Route 207 and Route 214.
@@ -72,6 +73,8 @@ N
 
 Process finished with exit code 0
 
-`
+}
+
+```
 
 ## Todo
