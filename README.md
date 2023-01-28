@@ -16,4 +16,4 @@ All of these game mechanics are simulated in the Java program found within this 
 
 ## Simulator
 
-
+## Todo
