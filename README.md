@@ -29,52 +29,9 @@ The second command can be the names of any of the routes present when typing the
 
 Finally, the last command is `N` which ends the simulation loop. 
 
-## Sample Output
+## Sample Output Video
 
-```
-{
-Type in your trainer ID!
-60000
-Two of your Munchlax trees should be Route 207 and Route 214.
-Type in your next honey tree location! To stop, type 'N'
-To list the available locations, type 'L'
-Route 207
-Your (munchlaxTree) random encounter is: Burmy
-Type in your next honey tree location! To stop, type 'N'
-To list the available locations, type 'L'
-Route 207
-Your (munchlaxTree) random encounter is: Combee
-Type in your next honey tree location! To stop, type 'N'
-To list the available locations, type 'L'
-L
-Your available locations are: 
-Route 205, Floroama Town side
-Route 205, Eterna City side
-Route 206
-Route 207
-Route 208
-Route 209
-Route 210, Solaceon Town Side
-Route 210, Celestic Town side
-Route 211
-Route 212, Hearthome City side
-Route 212, Pastoria City side
-Route 213
-Route 214
-Route 215
-Route 218
-Route 221
-Route 222
-Valley Windworks
-Eterna Forest
-Fuego Ironworks
-Floaroma Meadow
-N
+https://user-images.githubusercontent.com/80475070/215251069-408727b1-ee38-4024-96fd-9984f93bcc14.mp4
 
-Process finished with exit code 0
-
-}
-
-```
 
 ## Todo
